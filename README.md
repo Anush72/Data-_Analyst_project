@@ -1,2 +1,2 @@
-# Data-_Analyst_project
+# Data_Analyst
 Learning Data Analysis
